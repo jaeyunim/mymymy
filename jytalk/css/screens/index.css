@@ -1,0 +1,26 @@
+.welcome-line{
+    display: flex;
+    flex-direction: column;
+    padding: 0px 20px;
+    margin-bottom: 60px;
+}
+
+.welcome-line__row{
+    padding: 20px 0px 10px 0px;
+    color: #754F44;
+    font-size: 30px;
+    border-bottom: 1.5px solid #FDD692
+}
+
+.login-form{
+    display: flex;
+    flex-direction: column;
+}
+
+.login-form input{
+    padding:10px 10px;
+}
+
+body{
+    background-color:#F8FAFF;
+}

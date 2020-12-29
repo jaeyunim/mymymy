@@ -1,0 +1,6 @@
+@import "reset.css";
+/*components*/
+@import "components/status-bar.css";
+/*screens*/
+@import "screens/index.css"
+
